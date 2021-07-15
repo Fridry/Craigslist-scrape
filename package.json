@@ -1,0 +1,16 @@
+{
+  "name": "scrap-craigslist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fridry",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.2",
+    "puppeteer": "^10.1.0"
+  }
+}
